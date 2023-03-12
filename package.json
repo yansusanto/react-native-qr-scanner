@@ -1,37 +1,36 @@
 {
-  "name": "react-native-qrcode-scanner-view",
-  "version": "2.0.0",
-  "description": "A Highly customizable QRCode Scanner component for React Native",
-  "main": "index.js",
-  "readmeFilename": "README.md",
-  "scripts": {
-    "test": "make test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MarnoDev/react-native-qrcode-scanner-view.git"
-  },
-  "dependencies": {
-    "prop-types": "^15.7.2"
-  },
-  "peerDependencies": {
-    "react-native-camera": "^3.3.0"
-  },
-  "keywords": [
-    "react-native",
-    "react-native-component",
-    "qrcode",
-    "barcode",
-    "qrcode-scanner",
-    "qrcode-viewfinder",
-    "android",
-    "ios",
-    "marno"
-  ],
-  "author": "Marno",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/MarnoDev/react-native-qrcode-scanner-view/issues"
-  },
-  "homepage": "https://github.com/MarnoDev/react-native-qrcode-scanner-view#readme"
+    "name": "react-native-qrcode-scanner",
+    "version": "1.0.0",
+    "description": "A custom package based on react-native-qrcode-scanner-view",
+    "main": "index.js",
+    "readmeFilename": "README.md",
+    "scripts": {
+        "test": "make test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yansusanto/react-native-qr-scanner.git"
+    },
+    "dependencies": {
+        "prop-types": "^15.7.2"
+    },
+    "peerDependencies": {
+        "react-native-camera": "^3.3.0"
+    },
+    "keywords": [
+        "react-native",
+        "react-native-component",
+        "qrcode",
+        "barcode",
+        "qrcode-scanner",
+        "qrcode-viewfinder",
+        "android",
+        "ios"
+    ],
+    "author": "Yan Susanto",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/yansusanto/react-native-qr-scanner.gitissues"
+    },
+    "homepage": "https://github.com/yansusanto/react-native-qr-scanner.git#readme"
 }
